@@ -1,9 +1,10 @@
 # 🧠 simple_yolo: 基于 YOLOv8 的大豆叶病检测
 
 本项目实现了一个轻量级的 **YOLOv8** 模型，用于 **大豆叶片病害的检测与识别**，适合初学者学习 YOLO 框架的基本原理与实现方式。
+数据集链接：通过网盘分享的文件：大豆叶片病害数据集.zip
+链接: https://pan.baidu.com/s/1BNx-tfLg7lF7LQr1PGDC9A?pwd=hyhh 提取码: hyhh 
 
 ---
-
 ## 📁 项目结构
 
 ```text
